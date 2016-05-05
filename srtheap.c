@@ -1,4 +1,4 @@
-//Aalap Shastri
+
 
 /**
  * srtheap.c file
